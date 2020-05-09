@@ -1,0 +1,34 @@
+{
+  "RECORDS": [
+    {
+      "title": "google",
+      "home": "https://www.google.com/",
+      "search": "https://www.google.com/search?q=",
+      "id": "segoo111"
+    },
+    {
+      "title": "baidu",
+      "home": "https://www.baidu.com/",
+      "search": "https://www.baidu.com/s?wd=a",
+      "id": "sebai112"
+    },
+    {
+      "title": "yahoo",
+      "home": "https://www.yahoo.com/",
+      "search": "https://search.yahoo.com/search?p=",
+      "id": "seyah113"
+    },
+    {
+      "title": "bing",
+      "home": "https://www.bing.com/",
+      "search": "https://www.bing.com/search?q=",
+      "id": "sebin114"
+    },
+    {
+      "title": "duckduckgo",
+      "home": "https://duckduckgo.com/",
+      "search": "https://duckduckgo.com/?q=",
+      "id": "seduc115"
+    }
+  ]
+}
